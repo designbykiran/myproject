@@ -99,11 +99,9 @@ nav ul{
     z-index: 1;
     font-size: 16px;
 }
-/* Hide hamburger on desktop */
-#menu-toggle {
-    display: none; /* Default hidden */
+#menu-toggle, #close-menu {
+    display: none;
 }
-
 #menu-toggle i {
     flex-direction: column;
     background: none;
