@@ -7,7 +7,7 @@
 }
 #hero{
     height: auto;
-    background-image: url('unsplash_3leBubkp5hk.svg');
+    background-image: url('unsplash_3leBubkp5hk.webp');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
@@ -19,7 +19,6 @@ header{
     align-items: center;
     justify-content: space-between;
     animation: nav 2s cubic-bezier(0.44, 0.01, 0.13, 1.1);
-
 }
 @keyframes nav {
     0%{
@@ -171,7 +170,7 @@ border: 2px solid #fffefe;
 }
 #background-image{
      height: auto;
-    background-image: url('unsplash_3leBubkp5hk\ \(1\).svg');
+    background-image: url('unsplash_3leBubkp5hk\ \(1\).webp');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -217,7 +216,7 @@ left: 40%;
 }
 #background-image2{
      height: 100%;
-    background-image: url('unsplash_3leBubkp5hk\ \(2\).svg');
+    background-image: url('unsplash_3leBubkp5hk\ \(2\).webp');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
@@ -350,7 +349,7 @@ width: 90%;
 }
 #background-image3{
     height: 100%;
-    background-image: url('unsplash__NbxQ4mArcU.svg');
+    background-image: url('unsplash__NbxQ4mArcU.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -550,7 +549,7 @@ padding-top: 2em;
     none;
 }
 #background-image4{
-    background-image: url('unsplash__NbxQ4mArcU\ \(1\).svg');
+    background-image: url('unsplash__NbxQ4mArcU\ \(1\).webp');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -570,7 +569,7 @@ padding-top: 2em;
 }
 #background-image5{
     position: relative;
-    background-image: url('unsplash__NbxQ4mArcU\ \(2\).svg');
+    background-image: url('unsplash__NbxQ4mArcU\ \(2\).webp');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -681,7 +680,7 @@ aside img{
      color: #595959; 
 }
 #background-image6{
-    background-image: url('unsplash__NbxQ4mArcU\ \(3\).svg');
+    background-image: url('unsplash__NbxQ4mArcU\ \(3\).webp');
     height: auto;
     background-repeat: no-repeat;
     background-position: center;
@@ -696,7 +695,7 @@ aside img{
     padding: 2em;
 }
 #background-image7{
-    background-image: url('unsplash__NbxQ4mArcU\ \(4\).svg');
+    background-image: url('unsplash__NbxQ4mArcU\ \(4\).webp');
      height: auto;
     background-repeat: no-repeat;
     padding: 5em 3em;
