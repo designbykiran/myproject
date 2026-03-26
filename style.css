@@ -13,12 +13,12 @@
     background-size: cover; 
 }
 header{
-   
     padding: 1em 2em ;
     display: flex;
     align-items: center;
     justify-content: space-between;
     animation: nav 2s cubic-bezier(0.44, 0.01, 0.13, 1.1);
+    gap: 2rem;
 }
 @keyframes nav {
     0%{
@@ -833,6 +833,7 @@ left: 2%;
 
     #menu-toggle {
         display: flex;
+        display: block;
     }
 
     #btn {
