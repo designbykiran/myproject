@@ -18,7 +18,6 @@ header{
     align-items: center;
     justify-content: space-between;
     animation: nav 2s cubic-bezier(0.44, 0.01, 0.13, 1.1);
-    gap: 2rem;
 }
 @keyframes nav {
     0%{
@@ -46,6 +45,13 @@ nav ul{
     display: flex;
     align-items: center;
     gap:1.25rem;
+}
+#nav-links {
+  display: flex;
+  gap: 1.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
  nav li,a{
     list-style: none;
