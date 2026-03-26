@@ -16,7 +16,7 @@ header{
     padding: 1em 2em ;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+  justify-content: space-between;
     animation: nav 2s cubic-bezier(0.44, 0.01, 0.13, 1.1);
 }
 @keyframes nav {
@@ -31,6 +31,7 @@ header{
 .logo-nav{
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap:5.375rem;
     background-image: linear-gradient(  90deg,#A8D7EB,#1A7297);
     padding: 0.9em 2em; 
