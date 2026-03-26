@@ -98,6 +98,10 @@ nav ul{
 }
 /* Hide hamburger on desktop */
 #menu-toggle {
+    display: none; /* Default hidden */
+}
+
+#menu-toggle i {
     display: none !important;
     flex-direction: column;
     background: transparent;
