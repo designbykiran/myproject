@@ -99,8 +99,9 @@ nav ul{
     z-index: 1;
     font-size: 16px;
 }
+
 #menu-toggle, #close-menu {
-    display: none;
+    display: none !important;
 }
 #menu-toggle i {
     flex-direction: column;
