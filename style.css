@@ -13,7 +13,7 @@
     background-size: cover; 
 }
 header{
-    padding: 1em 2em ;
+    padding: 1em 3em ;
     display: flex;
 
  display: flex;
@@ -207,16 +207,24 @@ border: 2px solid #fffefe;
   position: absolute;
 }
 #second-img{
-top: 10%;
-left: 40%;
+top:15%;
+left: 35%;
 }
 #first-img { 
-  
-    top: 7%;
+    top: 15%;
     left: 28%;
-      transform: translateX(50%) rotate(-60deg);
   animation: slideIn1 2s cubic-bezier(0.44, 0.01, 0.13, 1.1) both;
   animation-timeline: view(50% 20%);
+}
+@keyframes slideIn1 {
+  0% {
+    transform: translateX(50%) rotate(-60deg);
+  opacity: 0;
+  }
+  100% {
+    transform: translateX(0) rotate(-37deg);
+    opacity: 1;
+  }
 }
 @keyframes slideIn1 {
   0% {
