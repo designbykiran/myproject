@@ -90,7 +90,7 @@ nav ul{
     font-size: 16px;
 }
 /* Hide hamburger on desktop */
-#menu-toggle {
+#menu-toggle  i{
     display: none;
     flex-direction: column;
     background: transparent;
