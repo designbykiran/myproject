@@ -898,17 +898,9 @@ padding-top: 6.9em;
     left: 30%;
     
 }
- #close-menu{
-        display: block;
-    }
-    #menu-toggle {
-       display: inline-flex; 
-    cursor: pointer;
-    background-color:transparent;
-    color: #fff;
-    border: none;
-    font-size: 2rem;
-    }
+   #menu-toggle,#close-menu{
+    display: block;
+  }
 
  #first-img {
    top: 0%;
@@ -942,17 +934,9 @@ padding-top: 6.9em;
      .overlap-img{
     animation: none;
 }
- #close-menu{
-        display: block;
-    }
-    #menu-toggle {
-       display: inline-flex; 
-    cursor: pointer;
-    background-color:transparent;
-    color: #fff;
-    border: none;
-    font-size: 2rem;
-    }
+    #menu-toggle,#close-menu{
+    display: block;
+  }
 .bottel{
     animation: none;
 }
@@ -963,10 +947,6 @@ padding-top: 6.9em;
     left: 30%;
     
 }
-
- #menu-toggle{
-        display: block;
-    }
  #first-img {
    top: 20%;
     left: 20%;
