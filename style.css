@@ -778,17 +778,9 @@ aside img{
     filter: drop-shadow(2px 1px 10px #353535);
 }
 @media (max-width: 768px) {
-    #close-menu{
-        display: block;
-    }
-    #menu-toggle {
-       display: inline-flex; 
-    cursor: pointer;
-    background-color:transparent;
-    color: #fff;
-    border: none;
-    font-size: 2rem;
-    }
+   #menu-toggle,#close-menu{
+    display: block;
+  }
     #background-image{
         padding: 0;
     }
